@@ -1,4 +1,4 @@
-# SpringControleDeEstacionamento-PassoaPassoAulaSpringBoot
+# Spring API Controle De Estacionamento De Um Condominio
 
 ## Passo a Passo criado a partir de um tutorial do Youtube
 https://www.youtube.com/watch?v=LXRU-Z36GEU
